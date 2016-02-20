@@ -1,0 +1,9 @@
+#build is made here, so any file isn't kept
+*
+#but the .gitignore
+!.gitignore
+!*.pdf
+!*.png
+!*.jpg
+!*.bmp
+!*.tex
